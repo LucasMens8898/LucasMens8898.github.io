@@ -31,10 +31,11 @@ ul li {
 }
 ul li a {
     display: block;
-    color: dodgerblue;
+    color: white;
     text-align: center;
     padding: 0;
     text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
 }
 .item { 
     color: dodgerblue;
