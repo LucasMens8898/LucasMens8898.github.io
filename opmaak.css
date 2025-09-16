@@ -26,10 +26,10 @@ ul {
 
 
 }
-ul.li {
+ul li {
     float: left;
 }
-ul.li.a {
+ul li a {
     display: block;
     color: dodgerblue;
     text-align: center;
