@@ -22,6 +22,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: dodgerblue;
+    background-size: auto;
 }
 ul li {
     float: left;
