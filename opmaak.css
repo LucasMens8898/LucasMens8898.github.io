@@ -19,7 +19,7 @@ h3{
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 20;
+    padding: 0;
     overflow: hidden;
     background-color: dodgerblue;
     position: fixed;
@@ -36,6 +36,9 @@ ul li a {
     padding: 0;
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;
+}
+ul li a:hover {
+    background-color: darkblue;
 }
 .item { 
     color: dodgerblue;
