@@ -40,3 +40,6 @@ ul li a {
 ul li a:hover {
     background-color: darkblue;
 }
+h1.class {
+    color: black;
+}
