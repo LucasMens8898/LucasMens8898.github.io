@@ -1,0 +1,138 @@
+Natuurlijk! Hier zijn de teksten die je kunt gebruiken voor jouw informaticawebsite. Elke uitleg is netjes en duidelijk geschreven, bedoeld voor een scholierenniveau, en geschikt om op aparte pagina’s te plaatsen. Je kunt ze zelf nog aanvullen met plaatjes en video's, bijvoorbeeld van YouTube of uitlegwebsites.
+
+📥 Invoer - Verwerking - Uitvoer
+Wat is het?
+
+Bij computers draait alles om het verwerken van informatie. Dat gebeurt in drie stappen:
+
+Invoer (Input):
+Dit is alle informatie die de computer binnenkrijgt. Denk aan:
+
+Toetsenbord (je typt iets)
+
+Muis (je klikt ergens)
+
+Microfoon (je zegt iets)
+
+Camera (je maakt een foto)
+
+Verwerking (Processing):
+De computer gaat iets doen met die invoer. Bijvoorbeeld:
+
+Een tekst opslaan
+
+Een foto bewerken
+
+Rekeningen maken
+
+Spraak omzetten naar tekst
+
+Uitvoer (Output):
+Na de verwerking laat de computer iets aan jou zien of horen. Bijvoorbeeld:
+
+Een tekst op je scherm
+
+Een geluid via je speakers
+
+Een print via de printer
+
+Voorbeeld:
+
+Je typt een brief → De computer verwerkt de letters → Je ziet de brief op je scherm.
+
+💻 Binair Stelsel (Binaire Taal)
+Wat is het binaire stelsel?
+
+Een computer begrijpt alleen nullen (0) en en(en) (1). Dat noemen we binaire code.
+Elke letter, cijfer, foto of geluid wordt omgezet naar een reeks van 0’en en 1’en.
+
+Waarom gebruikt een computer 0 en 1?
+
+Een computerchip werkt met stroom. Er zijn maar twee standen:
+
+0 = geen stroom
+
+1 = wel stroom
+
+Zo kan een computer met alleen twee cijfers alle informatie opslaan en verwerken.
+
+Voorbeeld:
+
+De letter A in binaire code = 01000001
+
+Het cijfer 5 in binaire code = 00000101
+
+Je kunt binaire getallen ook omzetten naar decimale getallen (ons normale systeem met 0–9).
+
+🖼️ Compressie: Bitmap vs Vector
+Wat is compressie?
+
+Compressie betekent dat je een bestand kleiner maakt zodat het minder ruimte inneemt. Bijvoorbeeld een foto die van 5 MB naar 1 MB gaat.
+
+Er zijn twee manieren waarop beelden opgeslagen worden:
+
+1. Bitmap (rasterafbeelding)
+
+Gemaakt uit pixels
+
+Elke pixel heeft een eigen kleur
+
+Bekende formaten: JPG, PNG, BMP
+
+Nadeel: Wordt wazig als je inzoomt of vergroot
+
+Goed voor: foto’s, afbeeldingen met veel kleuren
+
+2. Vector
+
+Gebaseerd op lijnen en vormen (wiskundig)
+
+Kan je oneindig vergroten zonder kwaliteit te verliezen
+
+Bekende formaten: SVG, EPS
+
+Goed voor: logo’s, iconen, tekeningen
+
+Voorbeeld:
+
+Een foto van een persoon = bitmap
+
+Een logo van een bedrijf = vector
+
+🎨 Extra: Kleurmodellen (bonuspagina)
+RGB
+
+Wordt gebruikt op schermen
+
+Bestaat uit: Rood (Red), Groen (Green), Blauw (Blue)
+
+Door kleuren te mengen krijg je andere kleuren
+
+Rood + Groen = Geel
+Rood + Blauw = Magenta
+Groen + Blauw = Cyaan
+Alles samen = wit
+
+CMYK
+
+Wordt gebruikt bij drukwerk
+
+Bestaat uit: Cyaan, Magenta, Yellow (geel), Key (zwart)
+
+Dit model werkt met inkten
+
+📹 Idee voor jouw uitlegvideo
+
+Je kunt deze volgorde gebruiken voor jouw video van max. 5 minuten:
+
+Intro: Stel jezelf kort voor
+
+Rondleiding: Klik door je website (laat zien hoe het menu werkt)
+
+Korte uitleg per pagina (10-30 seconden per onderwerp)
+
+Laat afbeeldingen en video's zien die je hebt toegevoegd
+
+Afsluiting: Nodig kijkers uit om zelf rond te klikken
+
+Wil je dat ik ook een voorbeeld geef van een HTML-website met deze info erin (inclusief kleuren en menu)? Dan maak ik een start voor je!
