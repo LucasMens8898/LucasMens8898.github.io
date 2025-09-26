@@ -48,4 +48,9 @@ h1.inv {
 }
 ul.a {
     list-style-type: circle;
+    background: none;
+}
+ul li.a {
+    padding: none;
+    
 }
