@@ -52,7 +52,7 @@ ul.a {
     background: none;
 }
 ul li.a {
-    padding: none;
+    padding: 14px 16px;
 
 }
 iframe {
