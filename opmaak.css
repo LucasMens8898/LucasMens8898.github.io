@@ -46,3 +46,6 @@ ul li a:hover {
 h1.inv {
     color: black;
 }
+ul.a {
+    list-style-type: circle;
+}
