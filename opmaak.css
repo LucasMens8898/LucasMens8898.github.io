@@ -80,9 +80,10 @@ div {
   position: relative; right: auto;
 }
 div.ik {
-    width: 400px;
+    width: auto;
     border: 15px solid darkblue;
-    background-color: none;
+    background-color: black;
+    opacity: 0.5;
     padding: 2px;
     margin: 100px 500px; /* De text zelf moet in het midden komen, dus gebruik ik voor de margin twee getallen*/
 }
