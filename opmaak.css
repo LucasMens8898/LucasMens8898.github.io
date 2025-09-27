@@ -56,13 +56,13 @@ ul li.a {
 
 }
 iframe {
- position: relative;
- left: 60px;
+ position: relative; left: auto;
 }
 
 div {
-  width: 600x;
-  border: 15px solid green;
+  width: 300px;
+  border: 20px solid dodgerblue;
   padding: 50px;
   margin: 20px;
+  position: relative; right: auto;
 }
