@@ -71,6 +71,6 @@ div.ik {
     width: 400px;
     border: 15px solid darkblue;
     background-color: none;
-    padding: 5px;
-    margin: 100px 400px; /* De text zelf moet in het midden komen, dus gebruik ik voor de margin twee getallen*/
+    padding: 2px;
+    margin: 100px 650px; /* De text zelf moet in het midden komen, dus gebruik ik voor de margin twee getallen*/
 }
