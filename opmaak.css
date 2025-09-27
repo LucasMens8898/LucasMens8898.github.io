@@ -58,7 +58,7 @@ ul li.a {
 iframe {
  position: relative; left: auto;
 }
-body.higgs {
+section.HIGGS {
     background-image: url(gammagamma_run194108_evt564224000_ispy_3d-annotated-2.png);
 }
 
