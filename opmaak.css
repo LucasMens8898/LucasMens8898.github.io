@@ -61,7 +61,8 @@ iframe {
 section.HIGGS {
     background-image: url(gammagamma_run194108_evt564224000_ispy_3d-annotated-2.png);
 }
-
+p.HIGGS { color: white;}
+h1.HIGGS {color:white}
 div {
   width: 300px;
   border: 20px solid dodgerblue;
