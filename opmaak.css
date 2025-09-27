@@ -66,3 +66,11 @@ div {
   margin: 20px;
   position: relative; right: auto;
 }
+div.ik {
+    width: 400px;
+    border: 15px solid darkblue;
+    background-color: none;
+    padding: 20px;
+    margin: 30px 200px;
+    /* De text zelf moet in het midden komen, dus gebruik ik voor de margin twee getallen/*
+}
