@@ -60,6 +60,15 @@ iframe {
 }
 section.HIGGS {
     background-image: url(gammagamma_run194108_evt564224000_ispy_3d-annotated-2.png);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 3rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 p.HIGGS { color: white;}
 h1.HIGGS {color:white}
