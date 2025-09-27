@@ -81,7 +81,7 @@ div {
   position: relative; right: auto;
 }
 div.ik {
-    width: auto;
+    width: 600px;
     border: 15px solid darkblue;
     background-color: black;
     opacity: 0.5;
