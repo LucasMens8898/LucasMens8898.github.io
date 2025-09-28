@@ -52,7 +52,7 @@ ul.a {
     list-style-type: circle;
     background: none;
 }
-ul li.a {
+a.a {
     padding: 0;
 
 }
