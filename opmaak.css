@@ -88,8 +88,9 @@ div.ik {
     background-color: black;
     background: rgba(0, 0, 0, 0.772);
     padding: 2px;
-    margin: 100px 500px; /* De text zelf moet in het midden komen, dus gebruik ik voor de margin twee getallen*/
+    margin: 100px auto; /* De text zelf moet in het midden komen, dus gebruik ik voor de margin twee getallen*/
     overflow: hidden;
+    box-sizing: border-box;
 }
 div.strange {
     width: auto;
