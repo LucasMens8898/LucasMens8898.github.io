@@ -146,3 +146,7 @@ ul.Feynman{
   position: fixed; /*Met een position: fixed; command blijft het menu op het scherm, ondanks dat je naar beneden scrollt.*/
   top: 0;
 }
+
+.item {
+    padding-top: 60px; /*zo zorg je ervoor dat de tekst (het kopje kleurmodellen) niet achter het menu versopt zit!*/
+}
