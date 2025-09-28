@@ -82,13 +82,14 @@ h1.HIGGS {color:white}
 }
   */
 div.ik {
-    width: 50%;
+    width: 100%;
     height: 500px;
     border: 15px solid darkblue;
     background-color: black;
     background: rgba(0, 0, 0, 0.772);
     padding: 2px;
     margin: 100px 500px; /* De text zelf moet in het midden komen, dus gebruik ik voor de margin twee getallen*/
+    overflow: hidden;
 }
 div.strange {
     width: auto;
