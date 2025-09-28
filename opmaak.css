@@ -132,4 +132,7 @@ body, html {
   scroll-behavior: smooth;
   transition: background-color 1s ease, color 1s ease;
 }
-
+h1.feynman {
+    color: black;
+}
+p.Feynman { color: black;}
