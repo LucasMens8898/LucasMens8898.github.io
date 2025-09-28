@@ -70,6 +70,11 @@ section.HIGGS {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    transition: all 1s ease; /*zorgt ervoor dat de overgang vloeiend is*/
+}
+section.HIGGS.active {
+    background-image: url(W1KGU.jpg); /* Vervang door een andere afbeelding */
+    color: yellow; /* Of verander de tekstkleur */
 }
 p.HIGGS { color: white;}
 h1.HIGGS {color:white}
@@ -100,4 +105,10 @@ div.strange {
     padding: 29px;
     margin: auto;
     overflow: hidden;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  transition: background-color 1s ease, color 1s ease;
 }
