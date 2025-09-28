@@ -98,4 +98,5 @@ div.strange {
     background-color: none;
     padding: 29px;
     margin: auto;
+    overflow: hidden;
 }
