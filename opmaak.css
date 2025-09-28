@@ -77,7 +77,7 @@ section.HIGGS {
 section.Feynman {
     background-image: url(Pictures/image\ copy.png); /* Vervang door een andere afbeelding */
     /* color: yellow;  Of verander de tekstkleur */
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
