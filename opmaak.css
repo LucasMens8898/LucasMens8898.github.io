@@ -148,6 +148,6 @@ ul.Feynman{
   top: 0;
 }
 
-.item {
+p.item {
     padding-top: 60px; /*zo zorg je ervoor dat de tekst (het kopje kleurmodellen) niet achter het menu versopt zit!*/
 }
