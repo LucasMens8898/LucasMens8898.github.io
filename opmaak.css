@@ -60,7 +60,7 @@ iframe {
  position: relative; left: auto;
 }
 section.HIGGS {
-    background-image: url(gammagamma_run194108_evt564224000_ispy_3d-annotated-2.png);
+    background-image: url(Pictures/gammagamma_run194108_evt564224000_ispy_3d-annotated-2.png);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -73,7 +73,7 @@ section.HIGGS {
     transition: all 1s ease; /*zorgt ervoor dat de overgang vloeiend is*/
 }
 section.feynman {
-    background-image: url(image\ copy.png); /* Vervang door een andere afbeelding */
+    background-image: url(Pictures/image\ copy.png); /* Vervang door een andere afbeelding */
     /* color: yellow;  Of verander de tekstkleur */
     height: 100vh;
     display: flex;
