@@ -120,7 +120,7 @@ div.strange {
 }
 div.Feynman {
     width: 800px;
-    height: 600px;
+    height: fit-content;
     border: 15px solid darkblue;
     background-color: none;
     padding: 0;
