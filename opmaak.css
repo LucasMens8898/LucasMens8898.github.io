@@ -73,13 +73,14 @@ section.HIGGS {
 }
 p.HIGGS { color: white;}
 h1.HIGGS {color:white}
-div {
+/*div {
   width: 300px;
   border: 20px solid dodgerblue;
   padding: 50px;
   margin: 20px;
   position: relative; right: auto;
 }
+  */
 div.ik {
     width: 50%;
     height: 500px;
@@ -88,4 +89,12 @@ div.ik {
     background: rgba(0, 0, 0, 0.772);
     padding: 2px;
     margin: 100px 500px; /* De text zelf moet in het midden komen, dus gebruik ik voor de margin twee getallen*/
+}
+div.strange {
+    width: auto;
+    height: auto;
+    border: 20px solid dodgerblue;
+    background-color: none;
+    padding: 29px;
+    margin: auto;
 }
