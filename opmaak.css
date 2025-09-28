@@ -73,7 +73,7 @@ section.HIGGS {
     transition: all 1s ease; /*zorgt ervoor dat de overgang vloeiend is*/
 }
 section.feynman {
-    background-image: url(W1KGU.jpg); /* Vervang door een andere afbeelding */
+    background-image: url(image\ copy.png); /* Vervang door een andere afbeelding */
     /* color: yellow;  Of verander de tekstkleur */
     height: 100vh;
     display: flex;
