@@ -153,3 +153,7 @@ ul.Feynman{
 p.item {
     padding-top: 120px; /*zo zorg je ervoor dat de tekst (het kopje kleurmodellen) niet achter het menu versopt zit!*/
 }
+
+section.kleurmodel {
+    margin-right: 1cm;
+}
