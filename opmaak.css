@@ -26,6 +26,7 @@ ul {
     background-color: dodgerblue;
     background-size: auto;
     position: fixed;
+    top: 0; /*ziet er netter uit*/
 }
 ul li {
     float: left;
