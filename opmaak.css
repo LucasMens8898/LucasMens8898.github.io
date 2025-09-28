@@ -75,6 +75,16 @@ section.HIGGS {
 section.feynman {
     background-image: url(W1KGU.jpg); /* Vervang door een andere afbeelding */
     /* color: yellow;  Of verander de tekstkleur */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 3rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all 1s ease; /*zorgt ervoor dat de overgang vloeiend is*/
 }
 p.HIGGS { color: white;}
 h1.HIGGS {color:white}
