@@ -143,4 +143,6 @@ ul.Feynman{
   margin: 0;
   display: flex;
   flex-direction: column; /* zorgt voor verticale opstelling */
+  position: fixed; /*Met een position: fixed; command blijft het menu op het scherm, ondanks dat je naar beneden scrollt.*/
+  top: 0;
 }
