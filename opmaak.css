@@ -122,7 +122,8 @@ div.Feynman {
     width: 800px;
     height: fit-content;
     border: 15px solid darkblue;
-    background-color: none;
+    background-color: white;
+    background: rgba(255, 254, 254, 0.527);
     padding: 0;
     margin: 100px auto;
     overflow: hidden;
