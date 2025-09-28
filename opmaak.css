@@ -116,9 +116,20 @@ div.strange {
     margin: auto;
     overflow: hidden;
 }
+div.Feynman {
+    width: 800px;
+    height: 600px;
+    border: 15px solid darkblue;
+    background-color: none;
+    padding: 2px;
+    margin: 100px auto;
+    overflow: hidden;
+    box-sizing: border-box;
+}
 body, html {
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
   transition: background-color 1s ease, color 1s ease;
 }
+
