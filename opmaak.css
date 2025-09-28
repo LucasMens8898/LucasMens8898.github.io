@@ -27,13 +27,7 @@ ul {
     background-size: auto;
     position: fixed;
     top: 0; /*ziet er netter uit*/
-    left: 0;
-    width: 100%;
-    height: 60px;
-    padding: 0 20px;
-    display: flex;
-    z-index: 1000;
-    align-items: center;
+    
 }
 ul li {
     float: left;
