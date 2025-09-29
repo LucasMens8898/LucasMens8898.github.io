@@ -88,6 +88,19 @@ section.Feynman {
     background-repeat: no-repeat;
     transition: all 4s ease; /*zorgt ervoor dat de overgang vloeiend is*/
 }
+section.Lepton {
+    background-image: url(Pictures/DrFeynman.png);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 3rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all 4s ease;
+}
 p.HIGGS { color: white;}
 h1.HIGGS {color:white}
 /*div {
