@@ -102,7 +102,7 @@ section.Lepton {
     transition: all 4s ease;
 }
 
-.Compressie {
+body.Compressie {
     background-image: url(Pictures/Compressie.png);
     min-height: 100vh;
     background-size: cover;
