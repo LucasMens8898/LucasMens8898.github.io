@@ -136,7 +136,7 @@ div.Feynman {
     height: fit-content;
     border: 15px solid darkblue;
     background-color: white;
-    background: rgba(255, 254, 254, 0.527);
+    background: rgba(255, 254, 254, 0.527); /* Via rgba kan je de achtergrond doorzichtig maken, door een rgba color scheme te gebruiken en daar dan een vierde nummer toe te voegen die de transparantie aangeeft*/
     padding: 0;
     margin: 100px auto;
     overflow: hidden;
