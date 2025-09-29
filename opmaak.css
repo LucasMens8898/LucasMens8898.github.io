@@ -101,6 +101,17 @@ section.Lepton {
     background-repeat: no-repeat;
     transition: all 4s ease;
 }
+
+section.Compressie {
+    background-image: url(Pictures/Compressie.png);
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    align-items: center;
+    justify-content: center; /* zorgt ervoor dat items langs de centrale as worden gecentreerd langs de gebruike lijn van de flex container. */
+    display: flex;
+}
 p.HIGGS { color: white;}
 h1.HIGGS {color:white}
 /*div {
