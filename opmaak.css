@@ -153,6 +153,8 @@ div.Feynman {
     overflow: hidden;
     box-sizing: border-box;
 }
+
+/* Deze doet op dit moment niet zo heel veel!*/
 body, html {
   margin: 0;
   padding: 0;
