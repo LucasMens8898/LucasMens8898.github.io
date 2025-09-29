@@ -74,7 +74,7 @@ section.HIGGS {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    transition: all 1s ease; /*zorgt ervoor dat de overgang vloeiend is*/
+    transition: all 4s ease; /*zorgt ervoor dat de overgang vloeiend is*/
 }
 section.Feynman {
     background-image: url(Pictures/image\ copy.png); /* Vervang door een andere afbeelding */
@@ -88,7 +88,7 @@ section.Feynman {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    transition: all 1s ease; /*zorgt ervoor dat de overgang vloeiend is*/
+    transition: all 4s ease; /*zorgt ervoor dat de overgang vloeiend is*/
 }
 p.HIGGS { color: white;}
 h1.HIGGS {color:white}
