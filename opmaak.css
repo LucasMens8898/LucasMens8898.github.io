@@ -8,6 +8,7 @@ h2{
     color: black;
 
 }
+
 body {
 color: black;
 }
@@ -27,6 +28,7 @@ ul {
     top: 0; /*ziet er netter uit*/
     
 }
+
 ul li {
     float: left;
 } 
