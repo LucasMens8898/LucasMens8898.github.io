@@ -194,11 +194,11 @@ p.Compressie {
 
 footer { 
     background-color: #333333;     /* achtergrond */
-  color: white;                  /* witte tekst */
-  text-align: center;            /* in het midden */
-  padding: 5px 10px;           /* ruimte in het blok aan de boven/onderkant en de zijkanten */
-  font-size: 14px;             /* tekstgrootte */
-  margin-top: 40px;            /* ruimte tussen de footer en de tekst */
-  position: relative;          /* relatieveren aan dezelfde plek als de rest van de tekst en plaatjes */
-  width: 100%; 
+    color: white;                  /* witte tekst */
+    text-align: center;            /* in het midden */
+     padding: 5px 10px;           /* ruimte in het blok aan de boven/onderkant en de zijkanten */
+    font-size: 14px;             /* tekstgrootte */
+    margin-top: 40px;            /* ruimte tussen de footer en de tekst */
+    position: relative;          /* relatieveren aan dezelfde plek als de rest van de tekst en plaatjes */
+    width: 100%; 
 }
