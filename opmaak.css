@@ -11,6 +11,7 @@ h2{
 body {
 color: black;
 }
+
 h1 {
     color: black;
 
@@ -31,6 +32,7 @@ ul {
 ul li {
     float: left;
 } 
+
 ul li a {
     display: block;
     color: white;
@@ -41,15 +43,19 @@ ul li a {
     transition: background-color 0.3s; /* Wanneer je nu met je muis over het 'blokje' gaat, is er een soort vertraging waardoor het er
     mooier uitziet */
 }
+
 ul li a:hover {
     background-color: darkblue;
 }
+
 .Binair {
     color: black;
 }
+
 h1.inv {
     color: black;
 }
+
 ul.a {
     list-style-type: circle;
     background: none;
@@ -61,6 +67,7 @@ a.a {
 iframe {
  position: relative; left: auto;
 }
+
 section.HIGGS {
     background-image: url(Pictures/gammagamma_run194108_evt564224000_ispy_3d-annotated-2.png);
     height: 100vh;
@@ -88,6 +95,7 @@ section.Feynman {
     background-repeat: no-repeat;
     transition: all 4s ease; /*zorgt ervoor dat de overgang vloeiend is*/
 }
+
 section.Lepton {
     background-image: url(Pictures/DrFeynman.png);
     min-height: 100vh;
