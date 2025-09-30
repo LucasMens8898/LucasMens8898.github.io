@@ -207,7 +207,7 @@ footer {
     text-align: center;            /* in het midden */
     padding: 5px 20px;           /* ruimte in het blok aan de boven/onderkant en de zijkanten */
     font-size: 14px;             /* tekstgrootte */
-    margin-top: 40px;            /* ruimte tussen de footer en de tekst */
+    margin-top: 0;            /* er moet geen ruimte zitten tussen de footer en de laatste afbeelding */
     position: relative;          /* relatieveren aan dezelfde plek als de rest van de tekst en plaatjes */
     width: auto; 
 }
