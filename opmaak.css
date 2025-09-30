@@ -189,7 +189,7 @@ section.kleurmodel {
 iframe { margin-left: auto;}
 
 p.Compressie {
-    color: black;
+    color: black; /*tekstkleur*/
 }
 
 footer { 
