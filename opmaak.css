@@ -201,5 +201,5 @@ footer {
     font-size: 14px;             /* tekstgrootte */
     margin-top: 40px;            /* ruimte tussen de footer en de tekst */
     position: relative;          /* relatieveren aan dezelfde plek als de rest van de tekst en plaatjes */
-    width: 100%; 
+    width: auto; 
 }
