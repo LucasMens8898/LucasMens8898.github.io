@@ -56,14 +56,6 @@ h1.inv {
     color: black;
 }
 
-ul.a {
-    list-style-type: circle;
-    background: none;
-}
-a.a {
-    padding: 0;
-
-}
 iframe {
  position: relative; left: auto;
 }
@@ -121,6 +113,7 @@ section.Compressie {
     display: flex;
 }
 p.HIGGS { color: white;}
+
 h1.HIGGS {text-align: center; /*Zo staat de text in het midden*/
     color:white}
 
@@ -210,4 +203,8 @@ footer {
     margin-top: 0;            /* er moet geen ruimte zitten tussen de footer en de laatste afbeelding */
     position: relative;          /* relatieveren aan dezelfde plek als de rest van de tekst en plaatjes */
     width: auto; 
+}
+
+.video { 
+    
 }
