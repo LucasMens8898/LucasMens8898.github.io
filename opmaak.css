@@ -113,7 +113,9 @@ section.Compressie {
     display: flex;
 }
 p.HIGGS { color: white;}
-h1.HIGGS {color:white}
+h1.HIGGS {text-align: center; /*Zo staat de text in het midden*/
+    color:white}
+
 /*div {
   width: 300px;
   border: 20px solid dodgerblue;
